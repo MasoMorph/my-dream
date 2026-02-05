@@ -1,11 +1,11 @@
 # The Ternary Manifesto
-Reclaiming the machine — Toward a non-binary, decentralized, and bloat-free future 🚀
+Reclaiming the machine — Toward a non-binary, decentralized, and bloat-free future
 
 ---
 
 ## Table of Contents
 - [About the Architect](#about-the-architect)
-- [The "M'allem" Foundation](#the-mallem-foundation)
+- [The "M3allem" Foundation](#the-m3allem-foundation)
 - [Dreams & Scientific Aspirations](#dreams--scientific-aspirations)
   - [1. The Balanced Ternary Revolution](#1-the-balanced-ternary-revolution)
   - [2. A Pure Unix-Philosophy Kernel](#2-a-pure-unix-philosophy-kernel)
@@ -23,7 +23,7 @@ Student at Mehdi Benouna High School (English Branch), the only class of its kin
 
 ---
 
-## The "M'allem" Foundation
+## The "M3allem" Foundation
 Before I wrote code I fixed things. From the neighborhoods of Boujarah I built a reputation for bringing dead electronics back to life.
 
 Core hands-on experience:
